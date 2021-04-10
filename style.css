@@ -1,0 +1,103 @@
+body{
+    background-color: #ddd !important;
+    padding: 0em 7em;
+}
+
+.mainbody{
+    padding: 1em;
+    padding-top: 3em;
+    background-color: white;
+    box-shadow: #ddd;
+}
+.floatright{
+    float: right;
+    display: inline;
+}
+
+
+.mainbar{
+    color: white;
+    background-color: #5c0105;
+    padding: 2em 1em;
+}
+.mainbar h2{
+    display: inline;
+}
+
+.mainbar button{
+    color: white;
+    font-size: 1em;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+
+
+nav{
+    padding: 1em;
+    font-size: 1em;
+    color: black;
+    text-transform: uppercase;
+    background-color: white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.397);
+}
+
+nav a{
+    padding: 1em 0em;
+    margin-right: 1.8em;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #5c0105;
+    border-bottom: 3px solid #5c0105;
+}
+.book{
+    width: 75px;
+    height: 100px;
+}
+
+.blue{
+    color: #0e737f;
+}
+
+.light{
+    color: rgba(105, 103, 103, 0.685);
+}
+.inlineblock{
+    display: inline-block;
+}
+.borderOrg{
+    border-bottom: 3px solid orange;
+    padding-bottom: 0.4em;
+}
+.maron{
+    color: #5c0105;
+    font-weight: bold;
+}
+.blue{
+    color: rgb(4, 126, 126);
+}
+.pdf{
+    border: 1px solid #5c0105;
+    border-radius: 3px;
+    background-color: white;
+    padding: 0.7em 1.2em;
+    color: #5c0105;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.pdf:hover{
+    background-color: orange;
+}
+.block{
+    margin-top: 20px;
+}
+footer{
+    background-color: rgb(235, 235, 235);
+    border-top: 1px solid rgba(128, 128, 128, 0.397);
+    text-align: center;
+    padding: 2em;
+    font-size: 1.1em;
+    line-height: 2em;
+    border-bottom: 1.5em solid #5c0105;
+}
